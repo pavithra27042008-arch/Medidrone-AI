@@ -104,18 +104,17 @@ The final technology list should reflect the technologies actually implemented i
 
 📸 Project Screenshots
 
-Screenshots of the following modules will be added here:
+Screenshots of the following modules will be added
 
 - 3D Command Center
 - Emergency Response
 - Hospital Network
-- Fleet Operations
 - AI Demand Forecast
 - Cold-Chain Telemetry
 
 🎥 Project Demonstration
 
-A project demonstration video will be added here
+A project demonstration video will be added 
 
 
 👩‍💻 Project Information
