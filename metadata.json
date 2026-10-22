@@ -1,0 +1,6 @@
+{
+  "name": "MediDrone AI - Autonomous Healthcare UAV & Fleet Simulation",
+  "description": "Futuristic autonomous medical drone simulation platform with interactive 3D flight command center, AI emergency triage logistics, cold-chain monitoring, and telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
