@@ -116,6 +116,10 @@ Screenshots of the following modules will be added
 
 A project demonstration video will be added 
 
+💻Project Prototype Link
+
+https://ai.studio/apps/2b536123-4442-4ebb-8011-e3ad7fa6ad63?fullscreenApplet=true
+
 
 👩‍💻 Project Information
 
